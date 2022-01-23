@@ -148,7 +148,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -activate
 🍙𝙐𝙨𝙚➜ It can activate antispam
 
-👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ - emergencycrush
+👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ - emergencycrash
 🍙𝙐𝙨𝙚➜ it will send Whatsapp virus
 
 👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ - List 
