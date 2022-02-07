@@ -84,7 +84,8 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/27634090203?text=Can%20you%20help%20bro)**
+ ```TAP THE WHATSAPP LOGO TO JOIN  BOT WHATSAPP GROUP```   👇🏻👇🏻
+**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)**
 
 
  
